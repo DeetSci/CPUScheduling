@@ -1,0 +1,10 @@
+Pone 5 8
+Ptwo 3 5
+Pthree 4 2
+Pfour 1 1
+Pfive 5 9
+Psix 6 10
+Pseven 4 2
+Peight 2 1
+Pnine 5 5
+Pten 8 15
